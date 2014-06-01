@@ -1,0 +1,15 @@
+{
+  "name": "port-scanning",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VietJS <info@vietjs.com> (http://vietjs.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "evilscan": "0.0.9",
+    "express": "^4.4.0"
+  }
+}
